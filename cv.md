@@ -20,5 +20,25 @@ My introduction to web development occurred a year ago. Since then, my goal has 
 * Node.JS, NPM, GULP
 * Git
 
+## Code example
+
+```
+function solution(number){
+  if (number < 0) {
+    return 0;
+  }
+
+  let sum = 0;
+  for (let i = 0; i < number; i++) {
+    if (i % 3 === 0 || i % 5 === 0) {
+      sum += i;
+    }
+  }
+
+  return sum;
+}
+
+```
+
 
 
