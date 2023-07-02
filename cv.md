@@ -47,5 +47,10 @@ function solution(number){
 * WAYUP course: «Web developer: freelancer's code» (completed)
 * RS SCHOOL course «JavaScript/Front-end. Stage 0» (in process)
 
+## Languages
+
+* Ukrainian (native speaker)
+* Russian (native speaker)
+* English - A1 (in the learning process)
 
 
