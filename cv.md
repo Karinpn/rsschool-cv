@@ -40,5 +40,12 @@ function solution(number){
 
 ```
 
+## Education
+
+* Selidovsky Mining College 
+    + Accounting and taxation
+* WAYUP course: «Web developer: freelancer's code» (completed)
+* RS SCHOOL course «JavaScript/Front-end. Stage 0» (in process)
+
 
 
