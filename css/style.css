@@ -264,3 +264,27 @@ img {
     width: 66%;
     display: flex;
 }
+
+/* footer */
+
+.footer {
+    padding: 100px;
+}
+
+.footer__list {
+    display: flex;
+    align-items: center;
+}
+
+.footer__link {
+    color: #F8BB10;
+    font-weight: 600;
+}
+
+.footer__item:not(:last-child) {
+    margin-right: 30px;
+}
+
+.footer__link img {
+    width: 100px; 
+}
