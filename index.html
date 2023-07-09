@@ -121,6 +121,31 @@
                 </ul>
             </div>
         </section>
+        <section class="code-example" id="code-example">
+            <div class="container">
+                <h2 class="code-example__title title">
+                    Code example
+                </h2>
+                <pre class="code-example__my-code">
+                    <code>
+                        function solution(number){
+                            if (number < 0) {
+                              return 0;
+                            }
+                          
+                            let sum = 0;
+                            for (let i = 0; i < number; i++) {
+                              if (i % 3 === 0 || i % 5 === 0) {
+                                sum += i;
+                              }
+                            }
+                          
+                            return sum;
+                          }
+                    </code>
+                </pre>
+            </div>
+        </section>
     </main>
 </body>
 </html>
