@@ -165,3 +165,22 @@ img {
     color: #F8BB10;
     transition: all 0.5s ease;
 }
+
+/* about */
+
+.about {
+    padding-top: 100px;
+}
+
+.about__text-wrapper {
+    width: 66%;
+}
+
+.about__text {
+    font-size: 17px;
+}
+
+.about__text:not(:last-child) {
+    margin-bottom: 15px;
+}
+
