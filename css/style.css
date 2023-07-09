@@ -230,4 +230,39 @@ img {
     margin: 0 auto;
 }
 
+/* education */
+
+.education {
+    padding-top: 50px;
+}
+
+.education__list {
+    width: 66%;
+    list-style-type: disc
+}
+
+.education__list li::before {
+    content: "\2022"; 
+    color: #F8BB10; 
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+.education__item:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+/* languages */
+
+.languages {
+    padding-top: 100px;
+}
+
+.languages__list {
+    width: 66%;
+    display: flex;
+}
+
+
 
