@@ -51,6 +51,10 @@ img {
     justify-content: space-between;
 }
 
+.title {
+    padding-left: 150px;
+}
+
 /* header */
 
 .header {
@@ -184,3 +188,34 @@ img {
     margin-bottom: 15px;
 }
 
+/* skills */
+
+.skills {
+    padding-top: 100px;
+}
+
+.skills__list {
+    width: 66%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills__item {
+    display: flex;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+.skills__item:not(:nth-last-child(-n+2)) {
+    margin-bottom: 20px;
+}
+
+.skills__number {
+    font-weight: 600;
+    color: #F8BB10;
+    margin-right: 15px;
+}
+
+.skills__name {
+    font-size: 17px;
+}
