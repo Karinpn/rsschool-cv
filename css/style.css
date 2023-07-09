@@ -254,4 +254,13 @@ img {
     margin-bottom: 20px;
 }
 
+/* languages */
 
+.languages {
+    padding-top: 100px;
+}
+
+.languages__list {
+    width: 66%;
+    display: flex;
+}
