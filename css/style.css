@@ -288,3 +288,30 @@ img {
 .footer__link img {
     width: 100px; 
 }
+
+/* RESPONSIVE */
+
+/* large: 992px - 1199px */
+
+@media (max-width: 1199px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
+/* large: 768px - 991px */
+
+@media (max-width: 991px) {
+    .container {
+        max-width: 720px;
+        display: block;
+    }
+    .header__image {
+        margin: 0 auto;
+    }
+    .header__brand {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+}
