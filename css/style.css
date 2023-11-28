@@ -57,7 +57,7 @@ img {
 
 /* header */
 
-.header {
+/* .header {
     padding-top: 200px;
 }
 
@@ -172,7 +172,7 @@ img {
 
 /* about */
 
-.about {
+/* .about {
     padding-top: 100px;
 }
 
@@ -186,11 +186,11 @@ img {
 
 .about__text:not(:last-child) {
     margin-bottom: 15px;
-}
+} */
 
 /* skills */
 
-.skills {
+/* .skills {
     padding-top: 100px;
 }
 
@@ -218,22 +218,22 @@ img {
 
 .skills__name {
     font-size: 17px;
-}
+} */
 
 /* code-example */
 
-.code-example {
+/* .code-example {
     padding-top: 100px;
 }
 
 .code-example__my-code {
     margin: 0 auto;
 }
-
+ */
 
 /* education */
 
-.education {
+/* .education {
     padding-top: 50px;
 }
 
@@ -252,22 +252,22 @@ img {
 
 .education__item:not(:last-child) {
     margin-bottom: 20px;
-}
+} */
 
 /* languages */
 
-.languages {
+/* .languages {
     padding-top: 100px;
 }
 
 .languages__list {
     width: 66%;
     display: flex;
-}
+} */
 
 /* footer */
 
-.footer {
+/* .footer {
     padding: 100px;
 }
 
@@ -287,21 +287,21 @@ img {
 
 .footer__link img {
     width: 100px; 
-}
+} */
 
 /* RESPONSIVE */
 
 /* large: 992px - 1199px */
 
-@media (max-width: 1199px) {
+/* @media (max-width: 1199px) {
     .container {
         max-width: 960px;
     }
-}
+} */
 
 /* large: 768px - 991px */
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
     .container {
         max-width: 720px;
         display: block;
@@ -314,4 +314,4 @@ img {
         text-align: center;
     }
 
-}
+}  */
